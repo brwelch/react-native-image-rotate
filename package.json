@@ -1,5 +1,5 @@
 {
-  "name": "@brwelch/react-native-image-rotate",
+  "name": "react-native-image-rotate",
   "version": "2.0.1",
   "description": "Rotate images from your react-native JavaScript code",
   "main": "index.js",
